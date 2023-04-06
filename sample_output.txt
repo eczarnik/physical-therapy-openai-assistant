@@ -1,0 +1,73 @@
+
+
+I'm going to make you a physical therapy plan.
+Tell me the number of weeks you plan to participate in physical therapy (1 - 8): 4
+Tell me the primary area of pain: back
+Tell me one activity you are physically limited from performing: vacumming
+Tell me one goal you would like to achieve through physical therapy: running
+
+We will make you a 4 week physical therapy plan.
+Your plan will focus on alleviating your back pain.
+Your plan will help you work toward reducing your limitations with vacumming.
+Your plan will help you work toward achieving your running goal.
+
+Week 1:
+
+• Foam Rolling: 10 minutes daily
+• Cat/Camel: 10 repetitions, 3 sets
+• Bridging: 10 repetitions, 3 sets
+• Single Leg Glute Bridge: 10 repetitions each side, 3 sets
+• Standing Hip Flexor Stretch: 10 repetitions each side, 3 sets
+• Glute Activation Exercises: 10 repetitions each side, 3 sets
+• Prone Press Ups: 10 repetitions, 3 sets
+
+Week 2:
+
+• Foam Rolling: 10 minutes daily
+• Single Leg Glute Bridge: 10 repetitions each side, 3 sets
+• Standing Hip Flexor Stretch: 10 repetitions each side, 3 sets
+• Glute Activation Exercises: 10 repetitions each side, 3 sets
+• Prone Press Ups: 10 repetitions, 3 sets
+• Core Stability Exercises: 10 repetitions each side, 3 sets
+• Squats: 10 repetitions, 3 sets
+
+Week 3:
+
+• Foam Rolling: 10 minutes daily
+• Single Leg Glute Bridge: 10 repetitions each side, 3 sets
+• Standing Hip Flexor Stretch: 10 repetitions each side, 3 sets
+• Glute Activation Exercises: 10 repetitions each side, 3 sets
+• Prone Press Ups: 10 repetitions, 3 sets
+• Core Stability Exercises: 10 repetitions each side, 3 sets
+• Squats: 10 repetitions, 3 sets
+• Side Plank: 10 repetitions each side, 3 sets
+• Plank: 10 repetitions, 3 sets
+
+Week 4:
+
+• Foam Rolling: 10 minutes daily
+• Single Leg Glute Bridge: 10 repetitions each side, 3 sets
+• Standing Hip Flexor Stretch: 10 repetitions each side, 3 sets
+• Glute Activation Exercises: 10 repetitions each side, 3 sets
+• Prone Press Ups: 10 repetitions, 3 sets
+• Core Stability Exercises: 10 repetitions each side, 3 sets
+• Squats: 10 repetitions, 3 sets
+• Side Plank: 10 repetitions each side, 3 sets
+• Plank: 10 repetitions, 3 sets
+• Running: 10 minutes, 3 times a week
+
+Would you like to save your results? Enter Y or N: Y
+
+Would you like specific directions on how to do one of your exercises? Enter Y or N: Y
+Which exercise would you like directions for? Plank
+
+
+1. Start by getting into a push-up position, with your hands directly under your shoulders and your feet together.
+
+2. Engage your core and keep your body in a straight line from your head to your feet.
+
+3. Hold this position for 30 seconds to 1 minute and then relax.
+
+4. To increase the intensity, you can hold the plank for longer periods of time or add a variation such as lifting one arm or one leg off the ground.
+Would you like to search for directions for another exercise? Enter Y or N: N
+Good bye!
